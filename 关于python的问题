@@ -1,3 +1,5 @@
-vscode常用的插件：Chinese，code runner,filesize,bracket pair colorizer,guides,markdown preview,
+1-vscode常用的插件：Chinese，code runner,filesize,bracket pair colorizer,guides,markdown preview,
 setting sync,vscode-icons, 主题 winter is coming
-中文乱码问题：系统变量新建添加——变量名PYTHONIOENCODING，值设置为UTF8
+2-中文乱码问题：系统变量新建添加——变量名PYTHONIOENCODING，值设置为UTF8
+3-要想默认输出到调试控制台，只需将launch.json中console一项的配置改为internalConsole即可。
+
